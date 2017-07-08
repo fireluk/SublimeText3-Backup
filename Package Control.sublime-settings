@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AceJump",
+		"AdvancedNewFile",
+		"CodeFormatter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"ExpandRegion",
+		"IMESupport",
+		"Package Control",
+		"ProjectManager",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php"
+	]
+}
